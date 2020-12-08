@@ -26,6 +26,7 @@
 <img align="left" alt="kubernetes" width="26px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" /> 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
+<img align="left" alt="Firebase" width="27px" src="https://img.icons8.com/color/452/firebase.png" />
 
 <br>
 

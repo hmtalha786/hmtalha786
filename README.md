@@ -4,7 +4,7 @@
 ### 👯 I’m looking to collaborate on 4IR Technologies ( AI, IOT, Blockchain, Cloud Computing, DeveOps ).
 ### 🤔 I’m looking for help on systems related projects involving Bare Metal Programming.
 ### 💬 You can ask me about Mechatronics, Robotics and Systems Engineering.
-#### Languages & Tools
+#### Languages & Tools ...
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

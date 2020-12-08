@@ -20,7 +20,7 @@
 
 <br>
 
-### Learning Technologies ...
+#### Learning Technologies ...
 <img align="left" alt="AWS" width="38px" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" />
 <img align="left" alt="docker" width="30px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" /> 
 <img align="left" alt="kubernetes" width="26px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" /> 

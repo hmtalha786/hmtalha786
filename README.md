@@ -1,10 +1,10 @@
 ### Hi there 👋 
 ### 💬 You can ask me about Mechatronics, Robotics and Systems Engineering.
-### 🔭 I’m currently working on web app development ( learning mobile & desktop app dev. )
 ### 🌱 I’m currently learning Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs.
+### 🔭 Currently working on web app development ( learning mobile & desktop app dev. )
 ### 👯 I’m looking to collaborate on 4IR Technologies ( AI, IOT, Blockchain, Cloud Computing, DeveOps ).
 ### 🤔 I’m looking for help on systems related projects involving Bare Metal Programming.
-#### Languages & Tools ...
+#### ⚡ Languages & Tools ...
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -21,7 +21,7 @@
 
 <br>
 
-#### Learning Technologies ...
+#### 😄 Learning Technologies ...
 <img align="left" alt="AWS" width="38px" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" />
 <img align="left" alt="docker" width="30px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" /> 
 <img align="left" alt="kubernetes" width="26px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" /> 
@@ -31,7 +31,7 @@
 
 <br>
 
-#### How to reach me:
+#### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a> 

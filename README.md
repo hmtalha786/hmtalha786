@@ -8,6 +8,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="ECMAScript" width="26px" src="https://upload.wikimedia.org/wikipedia/fa/d/d5/Ecmascript-logo-bf5110fcdc155bf03a62c7863573ec65-21213.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbErme3WHnTAJjqqKRVlsnc6gfSTHFS_AfRA&usqp=CAU" />
 <img align="left" alt="Bootstrap" width="34px" src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" /> 
 <img align="left" alt="Python" width="26px" src="https://cdn.pling.com/img//hive/content-pre1/66411-1.png" />

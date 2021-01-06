@@ -29,7 +29,7 @@
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Firebase" width="27px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="GraphQL" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
-<img align="left" alt="PWA" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
+<img align="left" alt="PWA" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
 
 <br>
 

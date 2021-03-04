@@ -61,6 +61,8 @@
 
 <img align="left" alt="Node" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
 
+<img align="left" alt="express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat" />
+
 <img align="left" alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
 
 <img align="left" alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat" />
@@ -95,7 +97,11 @@
 
 ##### Development Tools :
 
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
+
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
+
+<img align="left" alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat" />
 
 <img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
 
@@ -134,6 +140,12 @@
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=flat" />
 
 <img align="left" alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white&style=flat" />
+
+<img align="left" alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CA4245?logo=React Router&logoColor=white&style=flat" />
+
+<img align="left" alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-CA2171?logo=Consul&logoColor=white&style=flat" />
+
+<img align="left" alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white&style=flat" />
 
 <img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
 

@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Muhammad Talha
-I am a Mechatronic Graduate, one of the most prominent multi-disciplinary engineering field. I have good knowledge of Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science Engineering.
+B.E. in Mechatronic Engineering
 
 ###### 💬 You can ask me about Engineering, Mechatronics specifically Robotic and Electronic Control Systems.
 ###### 🔭 I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, NLP, GANs etc. 

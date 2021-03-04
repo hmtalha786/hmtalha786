@@ -38,28 +38,28 @@
 
 #### My Skills in Technologies ...
 
-##### Basics :
-  - ###### HTML
+#### Basics :
+  - HTML
   - CSS
   - JavaScript
 
-##### UI Style :
+#### UI Style :
 - Bootstrap
 - Material UI
 
-##### Frontend Frameworks :
+#### Frontend Frameworks :
 - React
 - Angular 
 - Vue
 
-##### Backend Frameworks :
+#### Backend Frameworks :
 - Laravel
 - Node.js
 - Django
 - Flask
 - Spring
 
-##### Databases :
+#### Databases :
 - MySQL
 - MongoDB
 - Firebase DB

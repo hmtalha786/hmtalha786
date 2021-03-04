@@ -174,6 +174,8 @@
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
 
+<img align="left" alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white&style=flat" />
+
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
 
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
@@ -189,8 +191,6 @@
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat" />
-
-<img align="left" alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white&style=flat" />
 
 <img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=white&style=flat" />
 

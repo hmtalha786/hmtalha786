@@ -43,6 +43,8 @@
 
 <img align="left" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
 
+<img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
+
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 <img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
@@ -63,17 +65,11 @@
 
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 
-##### 🏷️ Frontend Frameworks :  React | Angular | Vue 
-
-##### 🏷️ Backend Frameworks :  Laravel | Node | Django | Flask | Spring 
-
 ##### 🏷️ Databases :  MySQL | MongoDB | Firebase DB
 
 ##### 🏷️ Cross Platform :  React Native | PWA | Google Flutter | Microsoft Power Apps 
 
-##### 🏷️ Languages :  Python | JavaScript | TypeScript | PHP | C++ | Java | C# | Rust | Dart
-
-##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab 
+##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab | github actions | Storybook
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 

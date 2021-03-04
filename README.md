@@ -36,7 +36,7 @@
 
 ### Web Technologies, I am working on ...
 
-#### Basic:
+#### Basics :
 - HTML5
 - CSS3
 - JavaScript ( ES6 )

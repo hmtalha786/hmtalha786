@@ -152,7 +152,7 @@
 
 <br/>
 
-##### AI and Machine Learning :
+##### Artificial Intelligence :
 
 <img align="left" alt="Sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?logo=Scikit-learn&logoColor=white&style=flat" />
 

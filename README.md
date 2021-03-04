@@ -31,5 +31,5 @@
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact)](https://github.com/hmtalha786/github-readme-stats)
 

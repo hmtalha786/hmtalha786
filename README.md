@@ -97,8 +97,6 @@
 
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
 
-<img align="left" alt="Appolo" src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo GraphQL&logoColor=white&style=flat" />
-
 <img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
 
 <img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />

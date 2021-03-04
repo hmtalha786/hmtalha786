@@ -115,8 +115,6 @@
 
 <img align="left" alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white&style=flat" />
 
-<img align="left" alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white&style=flat" />
-
 <img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
 
 <img align="left" alt="Sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?logo=Scikit-learn&logoColor=white&style=flat" />

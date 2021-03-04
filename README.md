@@ -115,7 +115,7 @@
 
 <img align="left" alt="Wordpress" src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
 
-<img align="left" alt="Wix" src="https://img.shields.io/badge/-Wix-0C6EFC?logo=Wix&logoColor=white&style=flat" />
+<img align="left" alt="Wix" src="https://img.shields.io/badge/-Wix.com-0C6EFC?logo=Wix&logoColor=white&style=flat" />
 
 <br/>
 
@@ -157,6 +157,8 @@
 
 <img align="left" alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat" />
 
+<img align="left" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat" />
+
 <img align="left" alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=Tensorflow&logoColor=white&style=flat" />
 
 <img align="left" alt="Dialogflow" src="https://img.shields.io/badge/-Dialogflow-FF6F00?logo=Dialogflow&logoColor=white&style=flat" />
@@ -167,11 +169,7 @@
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
 
-<img align="left" alt="Redux" src="https://img.shields.io/badge/-Redux Toolkit-764ABC?logo=Redux&logoColor=white&style=flat" />
-
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
-
-<img align="left" alt="Next" src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat" />
 
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
 

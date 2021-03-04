@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Muhammad Talha
-I am a graduate of Mechatronics, one of the most prominent multi-disciplinary engineering field. I have good knowledge of Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science Engineering.
+I am a Mechatronic Graduate, one of the most prominent multi-disciplinary engineering field. I have good knowledge of Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science Engineering.
 
-###### 💬 Ask me about Engineering, Mechatronics specifically Robotic and Electronic Control Systems.
+###### 💬 You can ask me about Engineering, Mechatronics specifically Robotic and Electronic Control Systems.
 ###### 🔭 I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, Dialogflow, GANs etc. 
 ###### 🌱 I’m currently learning Modern Full Stack Serverless Multi-Tenant SaaS Web & Mobile Applications using JavaScript, TypeScript, Python, Rust, React, Redux, Gatsby, GraphQL, Serverless, MongoDB, FaunaDB, Node.js, Contentful, Headless CMS, Docker, Kubernetes, Tensorflow, Firebase, Netlify, Google Cloud Platform, AWS Cloud Development Kit (CKD), etc. 
 ###### 👯 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps.  

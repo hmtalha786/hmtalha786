@@ -27,6 +27,8 @@
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
 
+<br/>
+
 <img align="left" alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat" />
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat" />
@@ -53,6 +55,8 @@
 
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat" />
 
+<br/>
+
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
 
 <img align="left" alt="Node" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
@@ -75,6 +79,8 @@
 
 <img align="left" alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=Amazon DynamoDB&logoColor=white&style=flat" />
 
+<br/>
+
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" />
 
 <img align="left" alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat" />
@@ -94,6 +100,8 @@
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
 
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?logo=Material-UI&logoColor=white&style=flat" />
+
+<br/>
 
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
@@ -117,6 +125,8 @@
 
 <img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
 
+<br/>
+
 <img align="left" alt="Sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?logo=Scikit-learn&logoColor=white&style=flat" />
 
 <img align="left" alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat" />
@@ -136,6 +146,8 @@
 <img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
 
 <img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
+
+<br/>
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 

@@ -47,8 +47,6 @@
 
 <img align="left" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 
-<img align="left" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
-
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 <img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
@@ -109,17 +107,21 @@
 
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?logo=Material-UI&logoColor=white&style=flat" />
 
+<img align="left" alt="Wordpress" src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
+
+<img align="left" alt="Wix" src="https://img.shields.io/badge/-Wix-0C6EFC?logo=Wix&logoColor=white&style=flat" />
+
 <br/>
 
 ##### IDEs :
 
-<img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
-
 <img align="left" alt="VS Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
+
+<img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
 <img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?logo=IntelliJ IDEA&logoColor=white&style=flat" />
 
-<img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
+<img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?logo=Jupyter&logoColor=white&style=flat" />
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
 
@@ -152,6 +154,8 @@
 ##### Modern Development Tools :
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
+
+<img align="left" alt="Redux" src="https://img.shields.io/badge/-Redux Toolkit-764ABC?logo=Redux&logoColor=white&style=flat" />
 
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
 

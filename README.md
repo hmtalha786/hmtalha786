@@ -63,13 +63,33 @@
 
 <br/>
 
+#### 🏷️ Databases and Cloud Services, I use ...
+
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
+
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
+
+<img align="left" alt="FaunaDB" src="https://img.shields.io/badge/-FaunaDB-29B2FE?logo=Freelancer&logoColor=white&style=flat" />
+
+<img align="left" alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=Amazon DynamoDB&logoColor=white&style=flat" />
+
+<img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" />
+
+<img align="left" alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat" />
+
+<img align="left" alt="GCP" src="https://img.shields.io/badge/-Google Cloud-4285F4?logo=Google Cloud&logoColor=white&style=flat" />
+
+<img align="left" alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white&style=flat" />
+
+<br/>
+
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 
 ##### 🏷️ Databases :  MySQL | MongoDB | Firebase DB
 
 ##### 🏷️ Cross Platform :  React Native | PWA | Google Flutter | Microsoft Power Apps 
 
-##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab | github actions | Storybook
+##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab | github actions | Storybook | serverless | colab
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 

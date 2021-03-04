@@ -36,18 +36,9 @@
 
 ### Web Technologies, I am working on ...
 
-| #### Basics :
-- HTML
-- CSS
-- JavaScript  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-#### Basics :
-- HTML
-- CSS
+#### Basics :         #### UI Style :
+- HTML                - Bootstrap
+- CSS                 - Material UI
 - JavaScript
 
 #### UI Style :

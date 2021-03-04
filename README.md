@@ -31,9 +31,32 @@
 
 <img align="left" alt="C#" src="https://img.shields.io/badge/-C Sharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
 
-<img align="left" alt="Rust" src="https://img.shields.io/badge/-Rustt-000000?logo=Rust&logoColor=white&style=flat" />
+<img align="left" alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style=flat" />
 
 <img align="left" alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat" />
+
+<br/>
+
+#### 🏷️ Frameworks, I work on ...
+
+<img align="left" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
+
+<img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
+
+<img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
+
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
+
+<img align="left" alt="Node" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
+
+<img align="left" alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat" />
+
+<img align="left" alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
+
+<img align="left" alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat" />
+
+<img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat" />
+
 
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 

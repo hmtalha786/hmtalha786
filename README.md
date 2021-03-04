@@ -37,8 +37,8 @@
 ### Web Technologies, I am working on ...
 
 #### Basics :
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 - JavaScript ( ES6 )
 
 #### 📫 How to reach me:

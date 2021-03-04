@@ -13,7 +13,7 @@
 
 ### ⚡ My Skills in Technologies ... 
 
-##### Programming Languages : 
+##### Web Programming Languages : 
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" />
 
@@ -21,17 +21,19 @@
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" />
-
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
+<img align="left" alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat" />
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
 
 <br/>
 
-<img align="left" alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat" />
+##### Multi Purpose Programming Languages : 
+
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" />
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat" />
+
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
 
 <img align="left" alt="C#" src="https://img.shields.io/badge/-C Sharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
 
@@ -41,7 +43,7 @@
 
 <br/>
 
-##### Front/Back-end Frameworks :
+##### Front Frameworks :
 
 <img align="left" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 
@@ -57,6 +59,8 @@
 
 <br/>
 
+##### Backend Frameworks :
+
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
 
 <img align="left" alt="Node" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
@@ -69,7 +73,7 @@
 
 <br/>
 
-##### Databases and Cloud Services :
+##### Databases :
 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
 
@@ -81,6 +85,8 @@
 
 <br/>
 
+##### Cloud Services :
+
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" />
 
 <img align="left" alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat" />
@@ -91,17 +97,23 @@
 
 <br/>
 
-##### Development IDEs, Tools, Solutions :
+##### Development Tools :
 
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
 
 <img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
+
+<br/>
+
+##### Development Solutions :
 
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
 
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?logo=Material-UI&logoColor=white&style=flat" />
 
 <br/>
+
+##### IDEs :
 
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
@@ -115,7 +127,7 @@
 
 <br/>
 
-##### AI and Data Science :
+##### Data Science :
 
 <img align="left" alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?logo=Numpy&logoColor=white&style=flat" />
 
@@ -126,6 +138,8 @@
 <img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
 
 <br/>
+
+##### AI and Machine Learning :
 
 <img align="left" alt="Sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?logo=Scikit-learn&logoColor=white&style=flat" />
 
@@ -148,6 +162,8 @@
 <img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
+
+##### Infrastructure and Automation :
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 

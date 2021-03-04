@@ -85,12 +85,6 @@
 
 ##### 🏷️ IDEs and Tools ...
 
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
-
-<img align="left" alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat" />
-
-<img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
-
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
 <img align="left" alt="VS Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
@@ -100,6 +94,14 @@
 <img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?logo=Jupyter&logoColor=white&style=flat" />
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
+
+<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
+
+<img align="left" alt="Appolo" src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo GraphQL&logoColor=white&style=flat" />
+
+<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
+
+<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
 
@@ -113,16 +115,9 @@
 
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat" />
 
-<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
-
-<img align="left" alt="Appolo" src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo GraphQL&logoColor=white&style=flat" />
-
-<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
-
-<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
 
-📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
+<br/> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact" />
+📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/

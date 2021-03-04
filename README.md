@@ -30,3 +30,6 @@
 ##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab 
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

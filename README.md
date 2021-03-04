@@ -11,7 +11,9 @@
 
 ##### 🤔 I’m looking for help with IoT related projects including blockchain and Cloud Data Security. 
 
-### ⚡ My Skills in Technologies ...
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact" />
+
+### ⚡ My Skills in Technologies ... 
 
 ##### 🏷️ Basics :  HTML | CSS | JavaScript
   
@@ -30,6 +32,4 @@
 ##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab 
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact)](https://github.com/hmtalha786/github-readme-stats)
 

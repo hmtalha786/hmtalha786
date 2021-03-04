@@ -2,7 +2,7 @@
 
 ##### 🎓 I have BE degree in Mechatronics, which is also called mechatronics engineering is an interdisciplinary branch of engineering that focuses on the engineering of electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering.
 
-##### 💬 You can ask me about Engineering, Mechatronics specifically Robotic and Electronic Control Systems.
+##### 💬 You can ask me about Engineering, Mechatronics specifically Robotics and Electronic Control Systems.
 
 ##### 🎗️ I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, GANs etc. 
 

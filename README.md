@@ -123,14 +123,6 @@
 
 <br/>
 
-##### 🏷️ UI Style :  Bootstrap | Material UI 
-
-##### 🏷️ Databases :  MySQL | MongoDB | Firebase DB
-
-##### 🏷️ Cross Platform :  React Native | PWA | Google Flutter | Microsoft Power Apps 
-
-##### 🏷️ Tools :  Git | Github | VS Code | PyCharm | IntelliJ IDEA | Jupyter Notebook/Lab | github actions | Storybook | serverless | colab
-
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact" />

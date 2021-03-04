@@ -39,7 +39,10 @@
 | #### Basics :
 - HTML
 - CSS
-- JavaScript   | Second Header |
+- JavaScript  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 #### Basics :

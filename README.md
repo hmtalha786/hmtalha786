@@ -99,7 +99,7 @@
 
 <img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?logo=IntelliJ IDEA&logoColor=white&style=flat" />
 
-<img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?logo=Jupyter&logoColor=white&style=flat" />
+<img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
 

@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Muhammad Talha
 
+<hr/>
+
 ##### 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.
 
 ##### 🎗️ I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, GANs etc. 
@@ -8,9 +10,11 @@
 
 ##### 🤝 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps.  
 
-<br/>
+<hr/>
 
-#### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ... 
+#### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ...
+
+<hr/>
 
 ##### Web Programming Languages : 
 

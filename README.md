@@ -11,7 +11,7 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 ##### 🤔 I’m looking for help with IoT related projects including blockchain and Cloud Data Security. 
 
-### 🧱 My Skills in Technologies ...
+### ⚡ My Skills in Technologies ...
 
 ##### 📌 Basics : { HTML, CSS, JavaScript }
   
@@ -23,7 +23,7 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 ##### 📌 Databases : { MySQL, MongoDB, Firebase DB }
 
-##### 📌 Cross Platform : { React Native, Flutter, PWA, Power Apps }
+##### 📌 Cross Platform : { React Native, PWA, Google Flutter, Microsoft Power Apps }
 
 ##### 📌 Tools : { Git, Github, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook/Lab }
 

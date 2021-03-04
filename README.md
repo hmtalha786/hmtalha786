@@ -46,9 +46,21 @@
 - Material UI
 
 #### Frontend Frameworks :
-- React ![70%](https://progress-bar.dev/70)
-- ![70%](https://progress-bar.dev/70) React
+- React
+- Angular 
+- Vue
 
+#### Backend Frameworks :
+- Laravel
+- Node.js
+- Django
+- Flask
+- Spring
+
+#### Databases :
+- MySQL
+- MongoDB
+- Firebase DB
 
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">

@@ -45,6 +45,8 @@
 
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
 
+<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
+
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 <img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
@@ -54,8 +56,6 @@
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
 
 <img align="left" alt="Node" src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
-
-<img align="left" alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat" />
 
 <img align="left" alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat" />
 
@@ -97,11 +97,7 @@
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
 
-<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
 
-<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
-
-<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
 
@@ -120,6 +116,10 @@
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
 
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white&style=flat" />
+
+<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
+
+<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
 

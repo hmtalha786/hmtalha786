@@ -115,6 +115,11 @@
 
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat" />
 
+<img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=white&style=flat" />
+
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
+
+<img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white&style=flat" />
 
 <br/>
 

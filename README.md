@@ -36,10 +36,11 @@
 
 ### Web Technologies, I am working on ...
 
-|  **Basics**   | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  Basics   | Second Header |
+|     :---:     |    :---:      |
+| HTML  | Content Cell  |
+| CSS  | Content Cell  |
+| JavaScript  | Content Cell  |
 
 #### Basics :
 - HTML

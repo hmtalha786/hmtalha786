@@ -45,8 +45,6 @@
 
 <img align="left" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat" />
 
-<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
-
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 <img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
@@ -110,6 +108,8 @@
 ##### 🏷️ Modern Development Tools :
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
+
+<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat" />
 
 <img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
 

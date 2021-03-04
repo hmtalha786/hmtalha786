@@ -9,7 +9,7 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 #### 🧱 My Skills in Technologies ...
 
-##### 🏷️ Basics : { HTML, CSS, JavaScript }
+🏷️ **Basics** : ##### { HTML, CSS, JavaScript }
   
 ##### 🏷️ UI Style : { Bootstrap, Material UI }
 

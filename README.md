@@ -39,7 +39,7 @@
 #### My Skills in Technologies ...
 
 ##### Basics :
-  - HTML
+  - ###### HTML
   - CSS
   - JavaScript
 

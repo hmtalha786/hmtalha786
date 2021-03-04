@@ -10,13 +10,13 @@
 
 ##### 🤝 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps.  
 
-<hr/>
-
-📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
+##### 📫 How to reach me: https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 
 <hr/>
 
 #### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ...
+
+<hr/>
 
 ##### Web Programming Languages : 
 

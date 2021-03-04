@@ -83,6 +83,30 @@
 
 <br/>
 
+##### 🏷️ Development Tools ...
+
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
+
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
+
+<img align="left" alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat" />
+
+<img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
+
+<img align="left" alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=NPM&logoColor=white&style=flat" />
+
+<img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
+
+<img align="left" alt="VS Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
+
+<img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?logo=IntelliJ IDEA&logoColor=white&style=flat" />
+
+<img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?logo=Jupyter&logoColor=white&style=flat" />
+
+<img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
+
+<br/>
+
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 
 ##### 🏷️ Databases :  MySQL | MongoDB | Firebase DB

@@ -30,11 +30,11 @@
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat" />
 
-<img align="left" alt="C#" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+<img align="left" alt="C#" src="https://img.shields.io/badge/-C Sharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
 
-<img align="left" alt="Rust" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+<img align="left" alt="Rust" src="https://img.shields.io/badge/-Rustt-000000?logo=Rust&logoColor=white&style=flat" />
 
-<img align="left" alt="Dart" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+<img align="left" alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat" />
 
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 

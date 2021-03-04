@@ -41,6 +41,8 @@
 
 <img align="left" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 
+<img align="left" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
+
 <img align="left" alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
 
 <img align="left" alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
@@ -57,6 +59,7 @@
 
 <img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat" />
 
+<br/>
 
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 

@@ -9,15 +9,15 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 #### 🧱 My Skills in Technologies ...
 
-🏷️ **Basics** : ##### { HTML, CSS, JavaScript }
+##### 📌 Basics : { HTML, CSS, JavaScript }
   
-##### 🏷️ UI Style : { Bootstrap, Material UI }
+##### 📌 UI Style : { Bootstrap, Material UI }
 
-##### 🏷️ Frontend Frameworks : { React, Angular, Vue }
+##### 📌 Frontend Frameworks : { React, Angular, Vue }
 
-##### 🏷️ Backend Frameworks : { Laravel, Node, Django, Flask, Spring }
+##### 📌 Backend Frameworks : { Laravel, Node, Django, Flask, Spring }
 
-##### 🏷️ Databases : { MySQL, MongoDB, Firebase DB }
+##### 📌 Databases : { MySQL, MongoDB, Firebase DB }
 
 #### ⚡ Languages & Tools ...
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

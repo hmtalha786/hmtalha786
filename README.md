@@ -46,7 +46,7 @@
 - Material UI
 
 #### Frontend Frameworks :
-- React <progress id="file" value="32" max="100"> 32% </progress>
+- React ![50%](https://progress-bar.dev/50)
 
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">

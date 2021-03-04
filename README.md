@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Muhammad Talha
 
-##### 🎓 I have BE degree in Mechatronics, which is also called mechatronics engineering is an interdisciplinary branch of engineering that focuses on the engineering of electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering.
+##### 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.
 
 ##### 🎗️ I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, GANs etc. 
 

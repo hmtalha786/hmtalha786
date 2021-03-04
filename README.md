@@ -21,6 +21,8 @@
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" />
+
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
@@ -102,6 +104,24 @@
 <img align="left" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
+
+<br/>
+
+##### AI and Data Science :
+
+<img align="left" alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?logo=Numpy&logoColor=white&style=flat" />
+
+<img align="left" alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=flat" />
+
+<img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
+
+<img align="left" alt="Sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?logo=Scikit-learn&logoColor=white&style=flat" />
+
+<img align="left" alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flat" />
+
+<img align="left" alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=Tensorflow&logoColor=white&style=flat" />
+
+<img align="left" alt="Dialogflow" src="https://img.shields.io/badge/-Dialogflow-FF6F00?logo=Dialogflow&logoColor=white&style=flat" />
 
 <br/>
 

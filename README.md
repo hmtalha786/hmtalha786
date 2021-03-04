@@ -85,7 +85,7 @@
 
 ##### 🏷️ Development IDEs, Tools, Solutions ...
 
-<img align="left" alt="Linux" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
 
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
 

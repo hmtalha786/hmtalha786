@@ -37,9 +37,16 @@
 ### Web Technologies, I am working on ...
 
 #### Basics :
-- HTML 5
-- CSS 3
-- JavaScript ( ES6 )
+- HTML
+- CSS
+- JavaScript
+
+#### UI Style :
+- Bootstrap
+- Material UI
+
+#### Frontend Frameworks :
+- React <progress id="file" value="32" max="100"> 32% </progress>
 
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">

@@ -83,15 +83,17 @@
 
 <br/>
 
-##### 🏷️ IDEs and Tools ...
+##### 🏷️ Development IDEs, Tools, Solutions ...
 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
 
-<img align="left" alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat" />
-
 <img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
+
+<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" />
+
+<img align="left" alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?logo=Material-UI&logoColor=white&style=flat" />
 
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 

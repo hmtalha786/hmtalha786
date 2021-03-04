@@ -25,11 +25,11 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 ##### 📌 Cross Platform : { React Native, PWA, Google Flutter, Microsoft Power Apps }
 
-##### 📌 Tools : { Git, Github, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook/Lab }
-
 ##### 📌 Languages : { Python, JavaScript, TypeScript, PHP, C++, Java, C#, Rust, Dart }
 
-#### 📫 How to reach me:
+##### 📌 Tools : { Git, Github, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook/Lab }
+
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a> 

@@ -61,6 +61,8 @@
 
 <img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat" />
 
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat" />
+
 <br/>
 
 #### 🏷️ Databases and Cloud Services, I use ...

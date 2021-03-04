@@ -11,11 +11,10 @@
 
 ##### 🤔 I’m looking for help with IoT related projects including blockchain and Cloud Data Security. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact" />
-
 ### ⚡ My Skills in Technologies ... 
 
-#### 🏷️ Basic : 
+#### 🏷️ Languages, I know ... 
+
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
 
 <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
@@ -52,3 +51,4 @@
 
 📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&layout=compact" />

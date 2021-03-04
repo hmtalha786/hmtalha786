@@ -13,7 +13,7 @@
 
 ### ⚡ My Skills in Technologies ... 
 
-#### 🏷️ Languages, I know ... 
+##### Programming Languages : 
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" />
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-#### 🏷️ Frameworks, I work on ...
+##### Front/Back-end Frameworks :
 
 <img align="left" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
 
@@ -63,7 +63,7 @@
 
 <br/>
 
-#### 🏷️ Databases and Cloud Services, I use ...
+##### Databases and Cloud Services :
 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
 
@@ -83,7 +83,7 @@
 
 <br/>
 
-##### 🏷️ Development IDEs, Tools, Solutions ...
+##### Development IDEs, Tools, Solutions :
 
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
 
@@ -105,7 +105,7 @@
 
 <br/>
 
-##### 🏷️ Modern Development Tools :
+##### Modern Development Tools :
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
 

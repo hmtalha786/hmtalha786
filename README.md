@@ -7,6 +7,34 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 ##### 👯 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps.  
 ##### 🤔 I’m looking for help with IoT related projects including blockchain and Cloud Data Security. 
 
+#### 🧱 My Skills in Technologies ...
+
+#### 🏷️ Basics :
+  - HTML
+  - CSS
+  - JavaScript
+
+#### 🏷️ UI Style :
+- Bootstrap
+- Material UI
+
+#### 🏷️ Frontend Frameworks :
+- React
+- Angular 
+- Vue
+
+#### 🏷️ Backend Frameworks :
+- Laravel
+- Node.js
+- Django
+- Flask
+- Spring
+
+#### 🏷️ Databases :
+- MySQL
+- MongoDB
+- Firebase DB
+
 #### ⚡ Languages & Tools ...
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,44 +65,14 @@ I have BE degree in Mechatronics, which is also called mechatronics engineering 
 
 <br>
 
-#### 🧱 My Skills in Technologies ...
-
-#### 🏷️ Basics :
-  - HTML
-  - CSS
-  - JavaScript
-
-#### 🏷️ UI Style :
-- Bootstrap
-- Material UI
-
-#### 🏷️ Frontend Frameworks :
-- React
-- Angular 
-- Vue
-
-#### 🏷️ Backend Frameworks :
-- Laravel
-- Node.js
-- Django
-- Flask
-- Spring
-
-#### 🏷️ Databases :
-- MySQL
-- MongoDB
-- Firebase DB
-
-
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">
 <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"; alt="Linkedin">
 </a> 
+
 <!--
 **hmtalha786/hmtalha786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

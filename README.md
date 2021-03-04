@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there 👋, I am Muhammad Talha
+
 ### 💬 You can ask me about Software Development, Mechatronics, and Robotics.
 ### 🌱 I’m currently learning Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs.
 ### 🔭 Currently working on web app development ( learning mobile & desktop app dev. )
@@ -33,8 +34,6 @@
 <img align="left" alt="PWA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
 
 <br>
-
-### Hi there 👋, I am Muhammad Talha
 
 #### My Skills in Technologies ...
 

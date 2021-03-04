@@ -34,33 +34,36 @@
 
 <br>
 
-### Web Technologies, I am working on ...
+### Hi there 👋, I am Muhammad Talha
 
--Basics :
- - HTML
- - CSS
- - JavaScript
+#### My Skills in Technologies ...
 
-#### UI Style :
+##### Basics :
+  - HTML
+  - CSS
+  - JavaScript
+
+##### UI Style :
 - Bootstrap
 - Material UI
 
-#### Frontend Frameworks :
+##### Frontend Frameworks :
 - React
 - Angular 
 - Vue
 
-#### Backend Frameworks :
+##### Backend Frameworks :
 - Laravel
 - Node.js
 - Django
 - Flask
 - Spring
 
-#### Databases :
+##### Databases :
 - MySQL
 - MongoDB
 - Firebase DB
+
 
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/" target="_blank">

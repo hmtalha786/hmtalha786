@@ -87,6 +87,14 @@
 
 ##### 🏷️ IDEs and Tools ...
 
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
+
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat" />
+
+<img align="left" alt="Github" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=flat" />
+
+<img align="left" alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=Github Actions&logoColor=white&style=flat" />
+
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat" />
 
 <img align="left" alt="VS Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
@@ -97,29 +105,27 @@
 
 <img align="left" alt="colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=white&style=flat" />
 
-
-
 <br/>
 
 ##### 🏷️ Modern Development Tools :
 
 <img align="left" alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?logo=Jamstack&logoColor=white&style=flat" />
 
-<img align="left" alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white&style=flat" />
+<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
+
+<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat" />
 
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat" />
+
+<img align="left" alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white&style=flat" />
 
 <img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=Ansible&logoColor=white&style=flat" />
 
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
 
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white&style=flat" />
-
-<img align="left" alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?logo=Contentful&logoColor=white&style=flat" />
-
-<img align="left" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" />
 
 <br/>
 

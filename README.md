@@ -36,9 +36,9 @@
 
 ### Web Technologies, I am working on ...
 
-#### Basics :         #### UI Style :
-- HTML                - Bootstrap
-- CSS                 - Material UI
+#### Basics :
+- HTML
+- CSS
 - JavaScript
 
 #### UI Style :

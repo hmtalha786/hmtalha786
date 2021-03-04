@@ -15,8 +15,27 @@
 
 ### ⚡ My Skills in Technologies ... 
 
-##### 🏷️ Basics :  HTML | CSS | JavaScript
-  
+#### 🏷️ Basic : 
+<img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+
+<img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
+
+<img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
+
+<img align="left" alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat" />
+
+<img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat" />
+
+<img align="left" alt="C#" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+
+<img align="left" alt="Rust" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+
+<img align="left" alt="Dart" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
+
 ##### 🏷️ UI Style :  Bootstrap | Material UI 
 
 ##### 🏷️ Frontend Frameworks :  React | Angular | Vue 

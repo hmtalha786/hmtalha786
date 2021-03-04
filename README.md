@@ -12,9 +12,11 @@
 
 <hr/>
 
-#### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ...
+📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/
 
 <hr/>
+
+#### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ...
 
 ##### Web Programming Languages : 
 
@@ -195,9 +197,3 @@
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
 
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white&style=flat" />
-
-<br/>
-
-<br/> 
-
-📫 **How to reach me:** https://www.linkedin.com/in/muhammad-talha-8418a81bb/

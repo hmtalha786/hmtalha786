@@ -16,8 +16,6 @@
 
 #### ⚡ I have Good Knowledge and basic to medium level skills in following Technologies ...
 
-<hr/>
-
 ##### Web Programming Languages : 
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" />

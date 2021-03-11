@@ -144,15 +144,17 @@
 
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=flat" />
 
-<img align="left" alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white&style=flat" />
-
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-CA4245?logo=React Router&logoColor=white&style=flat" />
 
 <img align="left" alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-CA2171?logo=Consul&logoColor=white&style=flat" />
 
+<img align="left" alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=white&style=flat" />
+
 <img align="left" alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white&style=flat" />
 
-<img align="left" alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" />
+<img align="left" alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white&style=flat" />
+
+<img align="left" alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?logo=Power BI&logoColor=white&style=flat" />
 
 <br/>
 

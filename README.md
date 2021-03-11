@@ -148,6 +148,8 @@
 
 <img align="left" alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-CA2171?logo=Consul&logoColor=white&style=flat" />
 
+<img align="left" alt="Bokeh" src="https://img.shields.io/badge/-Bokeh-00C7B7?logo=JSON Web Tokens&logoColor=white&style=flat" />
+
 <img align="left" alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?logo=Plotly&logoColor=white&style=flat" />
 
 <img align="left" alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white&style=flat" />

@@ -38,11 +38,17 @@ Development Technologies () {
 ```ruby
 Learning () {
 
-  Modern_Development_Tools => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
+  Modern_Development_Tools()
   
-  Cloud_Services => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]
+    return => 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ... etc
   
-  Infrastructure_and_Automation => [ 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ]
+  Cloud_Services()
+    
+    return => 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ... etc
+  
+  Infrastructure_and_Automation()
+  
+    return => 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ... etc
 }
 ```
 

@@ -23,34 +23,59 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```
 
 ```ruby
-Development_Technologies () {
+Development Technologies () {
 
-  Frontend Frameworks => [ 'React', 'Angular', 'Vue', 'Flutter' ]
+  Frontend_Frameworks => [ 'React', 'Angular', 'Vue', 'Flutter' ]
   
-  Backend Frameworks => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
+  Backend_Frameworks => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
   
   Databases => [ 'MySql', 'MongoDB', 'Firebase' ]
   
-  Development Tools => [ 'Github Actions', 'VS Code', 'PyCharm', 'Intellij IDEA', 'Jupyter', 'Colab' ]
+  Development_Tools => [ 'Github Actions', 'VS Code', 'PyCharm', 'Intellij IDEA', 'Jupyter', 'Colab' ]
 }
 ```
 
 ```ruby
 Learning () {
 
-  Modern Development Tools => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
+  Modern_Development_Tools => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
   
-  Cloud Services => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]
+  Cloud_Services => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]
   
-  Infrastructure and Automation => [ 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ]
+  Infrastructure_and_Automation => [ 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ]
 }
 ```
 
 
 ```ruby
-Data Science = { NumPy, SciPy, Pandas, Matplotlib, Seaborn, Bokeh, Plotly, Tableau, Power BI }
-```
+Artificial Intelligence () {
 
-```ruby
-Artificial Intelligence = { Sklearn, Keras, PyTorch, Tensorflow, Dialogflow }
+  Data Science () {
+  
+    Data_Wrangling () {
+    
+        return => NumPy, SciPy, Pandas ... etc
+    }
+    
+    Data_Visualization () {
+    
+        return => Matplotlib, Seaborn, Bokeh, Plotly ... etc
+    }
+    
+    Business_Tools () {
+    
+        return => Tableau, PowerBI ... etc
+    }    
+  }
+  
+  Machine_Learning () {
+  
+    return => Sklearn, Keras, PyTorch, Tensorflow ... etc
+  }
+  
+  Natural_Language_Processing () {
+  
+    return => Google Dialogflow ... etc
+  }
+}
 ```

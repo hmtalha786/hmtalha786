@@ -2,10 +2,6 @@
 
 <hr/>
 
-<a href="https://github.com/hmtalha786/hmtalha786">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <p style="text-align: justify"> 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.<p/>
 
 <p style="text-align: justify"> 🎗️ I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, GANs etc. <p/>

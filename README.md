@@ -23,7 +23,12 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```
 
 ```ruby
-Frameworks = { React, Angular, Vue, Flutter, Laravel, Django, Flask, Spring, Express, Node.js, Deno.js }
+fn Frameworks()
+{
+  Frontend_Frameworks() => [ React, Angular, Vue, Flutter ]
+  
+  Backend_Frameworks() => [ Laravel, Django, Flask, Spring, Express, Node.js, Deno.js ]
+}
 ```
 
 ```ruby

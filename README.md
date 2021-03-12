@@ -25,27 +25,14 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```ruby
 Development Technologies () {
 
-  Frontend_Frameworks => [ 'React', 'Angular', 'Vue', 'Flutter' ]
+  Frontend_Frameworks => [ React, Angular, Vue, Flutter ]
   
-  Backend_Frameworks => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
+  Backend_Frameworks => [ Laravel, Django, Flask, Spring, Express, Node, Deno ]
   
-  Databases => [ 'MySql', 'MongoDB', 'Firebase' ]
+  Databases => [ MySql, MongoDB, Firebase ]
   
-  Development_Tools => [ 'Github Actions', 'VS Code', 'PyCharm', 'Intellij IDEA', 'Jupyter', 'Colab' ]
 }
 ```
-
-```ruby
-Learning () {
-
-  Modern_Development_Tools() => 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ... etc
-  
-  Cloud_Services() => 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ... etc
-  
-  Infrastructure_and_Automation() => 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ... etc
-}
-```
-
 
 ```ruby
 Artificial Intelligence () {
@@ -63,5 +50,16 @@ Artificial Intelligence () {
   Machine_Learning () => Sklearn, Keras, PyTorch, Tensorflow ... etc
   
   Natural_Language_Processing () => Google Dialogflow ... etc
+}
+```
+
+```ruby
+Currently Learning () {
+
+  Modern_Development_Tools() => JamStack, Serverless, Gatsby, GrapghQL, Apollo, Contentful, Storybook ... etc
+  
+  Cloud_Services() => Firebase, Netlify, Amazon Web Services, Google Cloud Platform ... etc
+  
+  Infrastructure_and_Automation() => Docker, Kubernetes, Ansible, Jenkins, Terraform ... etc
 }
 ```

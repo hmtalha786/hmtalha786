@@ -25,24 +25,24 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```ruby
 Development_Technologies () {
 
-  Frontend Frameworks () => [ 'React', 'Angular', 'Vue', 'Flutter' ]
+  Frontend Frameworks => [ 'React', 'Angular', 'Vue', 'Flutter' ]
   
-  Backend Frameworks () => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
+  Backend Frameworks => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
   
-  Databases () => [ 'MySql', 'MongoDB', 'Firebase' ]
+  Databases => [ 'MySql', 'MongoDB', 'Firebase' ]
   
-  Development Tools () => [ 'Github Actions', 'VS Code', 'PyCharm', 'Intellij IDEA', 'Jupyter', 'Colab' ]
+  Development Tools => [ 'Github Actions', 'VS Code', 'PyCharm', 'Intellij IDEA', 'Jupyter', 'Colab' ]
 }
 ```
 
 ```ruby
 Learning () {
 
-  Modern Development Tools () => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
+  Modern Development Tools => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
   
-  Cloud Services () => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]
+  Cloud Services => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]
   
-  Infrastructure and Automation () => [ 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ]
+  Infrastructure and Automation => [ 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ]
 }
 ```
 

@@ -23,7 +23,7 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```
 
 ```ruby
-fn Frameworks()
+fn Development_Technologies ()
 {
   Frontend Frameworks() => [ 'React', 'Angular', 'Vue', 'Flutter' ]
   

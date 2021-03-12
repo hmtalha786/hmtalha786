@@ -23,8 +23,8 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```
 
 ```ruby
-fn Development_Technologies ()
-{
+Development_Technologies () {
+
   Frontend Frameworks () => [ 'React', 'Angular', 'Vue', 'Flutter' ]
   
   Backend Frameworks () => [ 'Laravel', 'Django', 'Flask', 'Spring', 'Express', 'Node.js', 'Deno.js' ]
@@ -36,8 +36,8 @@ fn Development_Technologies ()
 ```
 
 ```ruby
-fn Learning ()
-{
+Learning () {
+
   Modern Development Tools () => [ 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ]
   
   Cloud Services () => [ 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ]

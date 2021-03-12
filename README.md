@@ -19,21 +19,30 @@
 <hr/>
 
 ```ruby
-Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, C#, PHP, Dart, Rust }
-```
-
-```ruby
 Development Technologies () {
 
-  Frontend_Frameworks () => [ React, Angular, Vue, Flutter ]
+  Programming_Languages () => HTML, CSS, JavaScript, Python, C++, Java, C#, PHP, Dart
+
+  Frontend_Frameworks () => React, Angular, Vue, Flutter
   
-  Backend_Frameworks () => [ Laravel, Django, Flask, Spring, Express, Node, Deno ]
+  Backend_Frameworks () => Laravel, Django, Flask, Spring, Express, Node
   
-  Databases () => [ MySql, MongoDB, Firebase ]
+  Databases () => MySql, MongoDB, Firebase
   
 }
 ```
+```ruby
+Currently Learning () {
 
+  Programming_Languages () => TypeScript, Python, Rust ... etc
+
+  Modern_Development_Tools() => JamStack, Serverless, Gatsby, GrapghQL, Apollo, Contentful, Storybook ... etc
+  
+  Cloud_Services() => Firebase, Netlify, Amazon Web Services, Google Cloud Platform ... etc
+  
+  Infrastructure_and_Automation() => Docker, Kubernetes, Ansible, Jenkins, Terraform ... etc
+}
+```
 ```ruby
 Artificial Intelligence () {
 
@@ -50,16 +59,5 @@ Artificial Intelligence () {
   Machine_Learning () => Sklearn, Keras, PyTorch, Tensorflow ... etc
   
   Natural_Language_Processing () => Google Dialogflow ... etc
-}
-```
-
-```ruby
-Currently Learning () {
-
-  Modern_Development_Tools() => JamStack, Serverless, Gatsby, GrapghQL, Apollo, Contentful, Storybook ... etc
-  
-  Cloud_Services() => Firebase, Netlify, Amazon Web Services, Google Cloud Platform ... etc
-  
-  Infrastructure_and_Automation() => Docker, Kubernetes, Ansible, Jenkins, Terraform ... etc
 }
 ```

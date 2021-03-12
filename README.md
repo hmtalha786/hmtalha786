@@ -18,7 +18,7 @@
 
 <hr/>
 
-##### Web Programming Languages : 
+##### Programming Languages : 
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" />
 
@@ -28,15 +28,13 @@
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat" />
 
-<br/>
-
-##### Multi Purpose Programming Languages : 
-
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" />
-
 <img align="left" alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=flat" />
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat" />
+
+<br/>
+
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" />
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
 

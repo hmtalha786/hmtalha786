@@ -25,11 +25,11 @@ Programming Languages = { HTML, CSS, JavaScript, TypeScript, Python, C++, Java, 
 ```ruby
 Development Technologies () {
 
-  Frontend_Frameworks => [ React, Angular, Vue, Flutter ]
+  Frontend_Frameworks () => [ React, Angular, Vue, Flutter ]
   
-  Backend_Frameworks => [ Laravel, Django, Flask, Spring, Express, Node, Deno ]
+  Backend_Frameworks () => [ Laravel, Django, Flask, Spring, Express, Node, Deno ]
   
-  Databases => [ MySql, MongoDB, Firebase ]
+  Databases () => [ MySql, MongoDB, Firebase ]
   
 }
 ```

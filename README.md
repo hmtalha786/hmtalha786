@@ -38,17 +38,11 @@ Development Technologies () {
 ```ruby
 Learning () {
 
-  Modern_Development_Tools()
+  Modern_Development_Tools() => 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ... etc
   
-    return => 'JamStack', 'Serverless', 'Gatsby', 'GrapghQL', 'Apollo', 'Contentful', 'Storybook' ... etc
+  Cloud_Services() => 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ... etc
   
-  Cloud_Services()
-    
-    return => 'Firebase', 'Netlify', 'Amazon AWS', 'Google GCP' ... etc
-  
-  Infrastructure_and_Automation()
-  
-    return => 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ... etc
+  Infrastructure_and_Automation() => 'Docker', 'Kubernetes', 'Ansible', 'Jenkins', 'Terraform' ... etc
 }
 ```
 
@@ -58,30 +52,16 @@ Artificial Intelligence () {
 
   Data Science () {
   
-    Data_Wrangling () {
+    Data_Wrangling () => NumPy, SciPy, Pandas ... etc
     
-        return => NumPy, SciPy, Pandas ... etc
-    }
+    Data_Visualization () => Matplotlib, Seaborn, Bokeh, Plotly ... etc
     
-    Data_Visualization () {
+    Business_Tools () => Tableau, PowerBI ... etc
     
-        return => Matplotlib, Seaborn, Bokeh, Plotly ... etc
-    }
-    
-    Business_Tools () {
-    
-        return => Tableau, PowerBI ... etc
-    }    
   }
   
-  Machine_Learning () {
+  Machine_Learning () => Sklearn, Keras, PyTorch, Tensorflow ... etc
   
-    return => Sklearn, Keras, PyTorch, Tensorflow ... etc
-  }
-  
-  Natural_Language_Processing () {
-  
-    return => Google Dialogflow ... etc
-  }
+  Natural_Language_Processing () => Google Dialogflow ... etc
 }
 ```

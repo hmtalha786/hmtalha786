@@ -2,8 +2,8 @@
 
 <hr/>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/hmtalha786/hmtalha786">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtalha786&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <p> 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.<p/>
@@ -14,7 +14,7 @@
 
 <p> 🤝 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps. <p/>
 
-##### 📫 How to reach me: https://www.linkedin.com/in/muhammad-talha-8418a81bb/
+<p> 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/">Linkedin<a/> <p/>
 
 <hr/>
 

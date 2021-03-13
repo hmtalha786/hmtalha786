@@ -34,7 +34,7 @@ Development Technologies () {
 ```ruby
 Currently Learning () {
 
-  Programming_Languages () => TypeScript, Python, Rust ... etc
+  Programming_Languages () => TypeScript, Rust, Go ... etc
 
   Modern_Development_Tools() => JamStack, Serverless, Gatsby, GrapghQL, Apollo, Contentful, Storybook ... etc
   

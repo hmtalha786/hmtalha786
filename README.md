@@ -23,9 +23,9 @@ Development Technologies () {
 
   Programming_Languages () => HTML, CSS, JavaScript, Python, C++, Java, C#, PHP, Dart
 
-  Frontend_Frameworks () => React, Angular, Vue, Flutter
+  Frontend () => React, React_Native, Angular, Vue, Flutter
   
-  Backend_Frameworks () => Laravel, Django, Flask, Spring, Express, Node
+  Backend () => Laravel, Django, Flask, Spring, Express, Node
   
   Databases () => MySql, MongoDB, Firebase
   

@@ -56,7 +56,13 @@ Artificial Intelligence () {
     
   }
   
-  Machine_Learning () => Sklearn, Keras, PyTorch, Tensorflow ... etc
+  Machine_Learning () {
+  
+    Libraries () => Sklearn, Keras, PyTorch, Tensorflow ... etc
+    
+    Supervised_Learning () => Regression, Classification
+  
+  }
   
   Natural_Language_Processing () => Google Dialogflow ... etc
 }

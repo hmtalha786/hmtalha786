@@ -36,7 +36,7 @@ Currently Learning () {
 
   Programming_Languages () => TypeScript, Rust, Go ... etc
 
-  Modern_Development_Tools() => JamStack, Serverless, Gatsby, GrapghQL, Apollo, Contentful, Storybook ... etc
+  Modern_Development_Tools() => JamStack, Serverless, Gatsby, Next, GrapghQL, Apollo, Contentful, Storybook ... etc
   
   Cloud_Services() => Firebase, Netlify, Amazon Web Services, Google Cloud Platform ... etc
   

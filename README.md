@@ -4,11 +4,7 @@
 
 <p style="text-align: justify"> 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.<p/>
 
-<p style="text-align: justify"> 🎗️ I’m currently working on Data Science, Machine Learning, Reinforcement Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, GANs etc. <p/>
-
-<p style="text-align: justify"> 👨‍💻 I’m currently learning to build Modern Full Stack Serverless Multi-Tenant SaaS Web & Mobile Applications using TypeScript, React, Redux, Gatsby, GraphQL, MongoDB, FaunaDB, Node.js, Contentful, Firebase, Netlify, Google Cloud, Amazon AWS, etc. <p/>
-
-<p style="text-align: justify"> 🤝 I’m looking to collaborate on building Internet-Scale Multi-Cloud Multi-Tenant Serverless SaaS Global Apps ( Web, Mobile, and Desktop ) integrating AI, IoT, Blockchain, and eCommerce Services ( Defi & Ethereum ) and bringing innovation by using a combination of Design Thinking, Lean Startup Methodology, Agile and DevOps. <p/>
+<p style="text-align: justify"> 🎗️ Currently, I am working on Modern Full Stack Serverless Multi-Tenant SaaS Web & Mobile Applications using JavaScript, TypeScript, Python, Rust, React, React Native, Redux, Gatsby, GraphQL, Serverless, MongoDB, FaunaDB, Node.js, Contentful, Headless CMS, Docker, Kubernetes, Tensorflow, Firebase, Netlify, Google Cloud Platform, AWS Cloud Development Kit (CKD), etc. <p/>
 
 <p> 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/">Linkedin<a/> <p/>
 

@@ -17,49 +17,19 @@
 ```ruby
 Development Technologies () {
 
-  Programming_Languages () => HTML, CSS, JavaScript, Python, C++, Java, C#, PHP, Dart
+  HTML, CSS, JavaScript, Python, C++, Java, C#, PHP, Dart, TypeScript, Rust, Go
 
-  Frontend () => React, React_Native, Angular, Vue, Flutter
-  
-  Backend () => Laravel, Django, Flask, Spring, Express, Node
-  
-  Databases () => MySql, MongoDB, Firebase
+  React, React_Native, Flutter, Express, Node, MongoDB, Firebase
   
 }
 ```
-```ruby
-Currently Learning () {
 
-  Programming_Languages () => TypeScript, Rust, Go ... etc
-
-  Modern_Development_Tools() => JamStack, Serverless, Gatsby, Next, GrapghQL, Apollo, Contentful, Storybook ... etc
-  
-  Cloud_Services() => Firebase, Netlify, Amazon Web Services, Google Cloud Platform ... etc
-  
-  Infrastructure_and_Automation() => Docker, Kubernetes, Ansible, Jenkins, Terraform ... etc
-}
-```
 ```ruby
 Artificial Intelligence () {
 
-  Data Science () {
-  
-    Data_Wrangling () => NumPy, SciPy, Pandas ... etc
+  NumPy, SciPy, Pandas, Matplotlib, Seaborn, Bokeh, Plotly, Sklearn, Keras, PyTorch, Tensorflow
     
-    Data_Visualization () => Matplotlib, Seaborn, Bokeh, Plotly ... etc
-    
-    Business_Tools () => Tableau, PowerBI ... etc
-    
-  }
-  
-  Machine_Learning () {
-  
-    Libraries () => Sklearn, Keras, PyTorch, Tensorflow ... etc
-    
-    Supervised_Learning () => Regression, Classification
   
   }
   
-  Natural_Language_Processing () => Google Dialogflow ... etc
-}
 ```

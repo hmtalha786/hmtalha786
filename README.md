@@ -14,22 +14,7 @@
 
 <hr/>
 
-```ruby
-Development Technologies () {
-
-  HTML, CSS, JavaScript, Python, C++, Java, C#, PHP, Dart, TypeScript, Rust, Go
+  HTML, CSS, JavaScript, Python, C++, Dart, TypeScript, Rust
 
   React, React_Native, Flutter, Express, Node, MongoDB, Firebase
   
-}
-```
-
-```ruby
-Artificial Intelligence () {
-
-  NumPy, SciPy, Pandas, Matplotlib, Seaborn, Bokeh, Plotly, Sklearn, Keras, PyTorch, Tensorflow
-    
-  
-  }
-  
-```

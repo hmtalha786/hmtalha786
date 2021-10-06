@@ -14,7 +14,7 @@
 
 <hr/>
 
-  HTML, CSS, JavaScript, Python, C++, Dart, TypeScript, Rust
+  HTML, CSS, JavaScript, TypeScript, Python, C++, Dart, Rust, React, React_Native, Flutter, Firebase
 
-  React, React_Native, Flutter, Express, Node, MongoDB, Firebase
+  Web and Mobile Development, Data Science and Machine Learning 
   

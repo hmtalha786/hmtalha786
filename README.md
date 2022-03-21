@@ -1,8 +1,16 @@
 ### Hi there 👋, I am Muhammad Talha
 
-<p style="text-align: justify"> 🎓 I have BE degree in Mechatronics, which is an interdisciplinary field that focuses on  electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecom, systems, control, and product engineering.<p/>
+<p style="text-align: justify"> As a Mechatronic Engineer, I pursue knowledge of core engineering fields i.e. Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science in the real world. I love to work on technologies including . . . . .
 
-<p style="text-align: justify"> 🎗️ Currently, I am working on Modern Full Stack Serverless Multi-Tenant SaaS Web & Mobile Applications using JavaScript, TypeScript, Python, Rust, React, React Native, Redux, Gatsby, Next, GraphQL, Serverless, MongoDB, FaunaDB, Node.js, Contentful, Headless CMS, Docker, Kubernetes, Tensorflow, Firebase, Netlify, Google Cloud Platform, AWS Cloud Development Kit (CKD), etc. <p/>
+- Software Development ( MERN / JAM / SJGAR Stack )
+- Artificial Intelligence ( DS / ML / DL / CV / NLP )
+- Internet of Things
+- Edge & Cloud Computing
+- Embedded Systems Programming
+- Robotics & Industrial Automation
+- Computer Aided Design & Development
 
-<p> 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/">Linkedin<a/> <p/>
+The aim is to integrate 4IR Technologies and bring innovation through Design Thinking, Lean, and Agile methodologies.<p/>
+
+<p> You can reach me through <a href="https://www.linkedin.com/in/muhammad-talha-8418a81bb/">Linkedin<a/> <p/>
   

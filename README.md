@@ -1,20 +1,30 @@
-### Hi there 👋, I am Muhammad Talha
+#### Hi there 👋, I am Muhammad Talha
 
-<p style="text-align: justify"> 
-  
-As a Mechatronic Engineer, I pursue knowledge of core engineering fields i.e. Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science in the real world. I love to work on technologies including . . . . . 
+##### As a Mechatronic Engineer, I pursue the knowledge of core engineering fields i.e. Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science in the real world. Currently, I work on a tech stack concerning the following technologies . . . . . 
 
-- Software Development
-- Artificial Intelligence
-- Internet of Things
-- Cloud Computing
-- Embedded Programming
-- Robotics & Automation
-- Computer Aided Design
+##### Programming Languages
+###### ( HTML, CSS, JavaScript, TypeScript, C++, Python, Rust, Dart )
 
-The aim is to integrate 4IR Technologies and bring innovation through Design Thinking, Lean, and Agile methodologies.
+##### Software Development 
+###### ( React, Gatsby, Next, PWA, Flutter, Express, Node, Django, MongoDB )
 
-<p/>
+##### Cloud Computing
+###### ( Firebase, Netlify, Vercel, Amazon AWS, Google GCP, Microsoft Azure )
 
-<p> You can reach me through <a href="https://www.linkedin.com/in/hmtalha786/">Linkedin<a/> <p/>
+##### Microcontrollers & CBCs 
+###### ( Arduino, ESP8266, ESP32, STM32, Raspberry Pi, Jetson Nano )
+
+##### Industrial Automation & IIoT
+###### ( PLC, HMI, VFD, SCADA, NodeRed, InfluxDB, Grafana, KepServerX )
+
+##### Data Science & Artificial Intelligence 
+###### ( Numpy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, ML, DL, NLP, CV )
+
+##### Mechanical CAD / CAM / CAE 
+###### ( AutoCAD, Solidworks, Fusion 360, Inventor, Creo, Ansys )
+
+##### Electronic Design & Simulation
+###### ( MATLAB, Simulink, Lab View, Proteus, Multisim, Fritzing, Eagle )
+
+##### The aim is to bring innovation to society by designing and developing intelligent integrated systems through proper utilisation of 4IR Technologies, Design Thinking, Lean & Agile Methodologies.
   

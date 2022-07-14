@@ -6,7 +6,7 @@
 ###### ( HTML, CSS, JavaScript, TypeScript, C++, Python, Rust, Dart )
 
 ##### Software Development 
-###### ( React, Gatsby, Next, Flutter, Express, Node, Flask, Django, MongoDB )
+###### ( React, Gatsby, Next, PWA, Express, Node, MongoDB, FaunaDB )
 
 ##### Cloud Computing
 ###### ( Firebase, Netlify, Vercel, Amazon AWS, Google GCP, Microsoft Azure )

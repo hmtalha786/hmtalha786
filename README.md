@@ -1,12 +1,12 @@
 #### Hi there 👋, I am Muhammad Talha
 
-##### As a Mechatronic Engineer, I pursue the knowledge of core engineering fields i.e. Mechanical, Electrical, Electronics, Control, Telecom, and Computer Science in the real world. Currently, I work on a tech stack concerning the following technologies . . . . . 
+Having Mechatronics major i.e. an interdisciplinary field, I pursue the knowledge of core engineering fields in the real world. I work on End to End Engineering Solutions covering Software Development, IT-OT integration, System design and development etc. The aim is to bring innovation through proper utilisation of Modern Technologies, Design Thinking, Lean and Agile Methodologies. 
 
 ##### Programming Languages
-###### ( HTML, CSS, JavaScript, TypeScript, C++, Python, Rust, Dart )
+###### ( HTML, CSS, JavaScript, TypeScript, C++, Python, Rust )
 
-##### Software Development 
-###### ( React, Gatsby, Next, PWA, Express, Node, MongoDB, FaunaDB )
+##### Web Development 
+###### ( React, Redux, Gatsby, Next, PWA, Express, Node, MongoDB, FaunaDB )
 
 ##### Cloud Computing
 ###### ( Firebase, Netlify, Vercel, Amazon AWS, Google GCP, Microsoft Azure )
@@ -25,6 +25,3 @@
 
 ##### Electronic Design & Simulation
 ###### ( MATLAB, Simulink, Lab View, Proteus, Multisim, Fritzing, Eagle )
-
-##### The aim is to bring innovation to society by designing and developing intelligent integrated systems through proper utilisation of 4IR Technologies, Design Thinking, Lean & Agile Methodologies.
-  

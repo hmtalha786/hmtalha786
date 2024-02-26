@@ -1,6 +1,6 @@
-#### Hi there 👋, I am Muhammad Talha
+### Hi there 👋, I am Talha
 
-Having Mechatronics major i.e. an interdisciplinary field, I pursue the knowledge of core engineering fields in the real world. I work on End to End Engineering Solutions covering Software Development, IT-OT integration, System design and development etc. The aim is to bring innovation through proper utilisation of Modern Technologies, Design Thinking, Lean and Agile Methodologies. 
+With more than 3 years of hands-on experience in intelligent system design covering diverse technologies and skillsets i.e. Internet of Things, Artificial Intelligence, Web Development, etc. The aim is to develop End to end-to-end engineering solutions to bring innovation by leveraging modern technologies, design thinking, and agile methodologies. 
 
 ##### Programming Languages
 ###### ( HTML, CSS, JavaScript, TypeScript, C++, Python, Rust )

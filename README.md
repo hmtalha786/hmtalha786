@@ -30,6 +30,39 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - ML Engineering for Production (MLOPS)
 --->
 
+<!--- 
+Domains :
 
+1) Internet of Things
+2) Data Analytics
+3) Data Science 
+4) Machine Learning
+5) Deep Learning
+6) Generative Adversrial Networks (GANs)
+7) Natural Language Processing (NLP)
+8) Image Processing
+9) Computer Vision 
+10) 3D Reconstruction
+11) Web Development
+12) Cloud Computing
+13) Data Engineering
+14) DevOps Engineering
+
+
+Tools :
+
+- C++ / Rust / Python / Javascript / Typescript
+
+- React Js / Next Js / Express Js / Node Js
+
+- Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
+
+- Firebase / Netlify / Vercel / AWS / Azure / GCP
+
+- Kafka / Spark / Hadoop / Airflow / Snowflake / Databricks
+
+- Scikit-Learn / Keras / Pytorch / Tensorflow / Langchain
+
+--->
 
 

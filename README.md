@@ -53,7 +53,7 @@ Tools :
 
 - C++ / Rust / Python / Javascript / Typescript
 
-- React Js / Next Js / Express Js / Node Js
+- React Js / Next Js / MongoDB / Express Js / Node Js / Appwrite / Strapi / Sanity
 
 - Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
 
@@ -61,7 +61,7 @@ Tools :
 
 - Kafka / Spark / Hadoop / Airflow / Snowflake / Databricks
 
-- Scikit-Learn / Keras / Pytorch / Tensorflow / Langchain
+- Scikit-Learn / Keras / Pytorch / Tensorflow / Langchain / Fast API
 
 --->
 

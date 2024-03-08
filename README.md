@@ -13,10 +13,14 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Professional Certificate
 - IBM Data Engineering Professional Certificate
+- Google Project Management Professional Certificate
+
+<!--- 
 - IBM AI Engineering Professional Certificate (ongoing)
 - IBM DevOps and Software Engineering Professional Certificate (ongoing)
 - DeepLearning.AI TensorFlow Developer Professional Certificate (ongoing)
-- Google Project Management Professional Certificate
+--->
+
 
 <!--- 
 ### DeepLearning.AI Specializations :

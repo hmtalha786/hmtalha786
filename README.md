@@ -6,6 +6,9 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - BE in Mechatronics Engineering
 - Masters of Project Management (MPM)
 - MS in Data Engineering and Information Management (ongoing)
+<!--- 
+- ME in Mechatronic and Cyber-Physical Systems
+--->
 
 ### Certifications :
 - Microsoft Technology Associate in Javascript
@@ -24,7 +27,6 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 
 <!--- 
 ### DeepLearning.AI Specializations :
-- Mathematics for ML and Data Science
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
@@ -55,17 +57,23 @@ Domains :
 
 Tools :
 
-- C++ / Rust / Python / Javascript / Typescript
+- Programming Languages : C++ / Rust / Python / Javascript / Typescript / Golang
 
-- React Js / Next Js / MongoDB / Express Js / Node Js / Appwrite / Strapi / Sanity
+- Web Development : React Js / Next Js / MongoDB / Express Js / Node Js 
 
-- Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
+- Backend as a Service (BaaS) : Firebase / Appwrite / Supabase / Strapi / Sanity
 
-- Firebase / Netlify / Vercel / AWS / Azure / GCP
+- Databases : MySQL, PostgreSQL, SQLite, MongoDB, Cassandra, Redis, Neo4j, FaunaDB
 
-- Kafka / Spark / Hadoop / Airflow / Snowflake / Databricks
+- DevOps : Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
 
-- Scikit-Learn / Keras / Pytorch / Tensorflow / Langchain / Fast API
+- Cloud Computing : Netlify / Vercel / AWS / Microsoft Azure / GCP
+
+- Data Engineering : Kafka / Spark / Hadoop / Flink / Airflow / Snowflake / Databricks
+
+- Machine Learning & AI : Scikit-Learn / Keras / Pytorch / Tensorflow / Langchain / Fast API
+
+- Computer Vision : Image Processing, Generative Adversarial Networks, Stable Diffusion 
 
 --->
 

@@ -27,6 +27,9 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 
 <!--- 
 ### DeepLearning.AI Specializations :
+- Mathematics for ML and DS
+- Machine Learning
+- Deep Learning
 - Natural Language Processing
 - Generative Adversarial Networks
 - Tensorflow: Advance Techniques

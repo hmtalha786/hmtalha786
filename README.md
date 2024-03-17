@@ -17,6 +17,7 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - IBM Data Science Professional Certificate
 - IBM Data Engineering Professional Certificate
 - Google Project Management Professional Certificate
+- Six Sigma White, Yellow, Green Belt Certified 
 
 <!--- 
 - IBM AI Engineering Professional Certificate (ongoing)

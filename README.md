@@ -6,9 +6,6 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - BE in Mechatronics Engineering
 - Masters of Project Management (MPM)
 - MS in Data Engineering and Information Management (ongoing)
-<!--- 
-- ME in Mechatronics and Cyber Physical Systems
---->
 
 ### Certifications :
 - Microsoft Technology Associate in Javascript

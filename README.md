@@ -13,13 +13,12 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Professional Certificate
 - IBM Data Engineering Professional Certificate
+- IBM AI Engineering Professional Certificate
 - Google Project Management Professional Certificate
 - Six Sigma White, Yellow, Green Belt Certified 
 
 <!--- 
-- IBM AI Engineering Professional Certificate (ongoing)
 - IBM DevOps and Software Engineering Professional Certificate (ongoing)
-- DeepLearning.AI TensorFlow Developer Professional Certificate (ongoing)
 --->
 
 
@@ -33,6 +32,7 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - Tensorflow: Advance Techniques
 - Tensorflow: Data and Deployment
 - ML Engineering for Production (MLOPS)
+- TensorFlow Developer Professional Certificate
 --->
 
 <!--- 

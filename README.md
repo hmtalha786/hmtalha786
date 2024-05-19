@@ -56,9 +56,9 @@ Domains :
 
 Tools :
 
-- Programming Languages : C++ / Rust / Python / Javascript / Typescript / Golang
+- Programming Languages : TypeScript, Python, Golang, Rust, Kotlin
 
-- Web Development : React Js / Next Js / MongoDB / Express Js / Node Js 
+- Web Development : React, Next JS, MongoDB, Express, Node Js / Fastapi, Pydantic, SQL Model, PostgreSQL 
 
 - Backend as a Service (BaaS) : Firebase / Appwrite / Supabase / Strapi / Sanity
 

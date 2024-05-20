@@ -66,7 +66,7 @@ Tools :
 
 - DevOps : Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
 
-- Cloud Computing : Netlify / Vercel / AWS / Microsoft Azure / GCP
+- Cloud Computing : Netlify / Vercel / AWS / Azure / GCP
 
 - Data Engineering : Kafka / Spark / Hadoop / Flink / Airflow / Snowflake / Databricks
 

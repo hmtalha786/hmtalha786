@@ -56,11 +56,11 @@ Domains :
 
 Tools :
 
-- Programming Languages : TypeScript, Python, Golang, Rust, Kotlin
+- Programming Languages : JavaScript and Python
 
-- Web Development : React, Next JS, MongoDB, Express, Node Js / Fastapi, Pydantic, SQL Model, PostgreSQL 
+- Web Development : Next JS and Fastapi 
 
-- Backend as a Service (BaaS) : Firebase / Appwrite / Supabase / Strapi / Sanity
+- Backend as a Service (BaaS) : Firebase / Appwrite / Supabase / Amplify
 
 - Databases : MySQL, PostgreSQL, SQLite, MongoDB, Cassandra, Redis, Neo4j, FaunaDB
 

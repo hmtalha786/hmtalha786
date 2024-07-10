@@ -14,13 +14,9 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - IBM Data Science Professional Certificate
 - IBM Data Engineering Professional Certificate
 - IBM AI Engineering Professional Certificate
+- IBM DevOps and Software Engineering Professional Certificate
 - Google Project Management Professional Certificate
 - Six Sigma White, Yellow, Green Belt Certified 
-
-<!--- 
-- IBM DevOps and Software Engineering Professional Certificate (ongoing)
---->
-
 
 <!--- 
 ### DeepLearning.AI Specializations :
@@ -43,7 +39,7 @@ Domains :
 3) Data Science 
 4) Machine Learning
 5) Deep Learning
-6) Generative Adversrial Networks (GANs)
+6) Generative Adversarial Networks (GANs)
 7) Natural Language Processing (NLP)
 8) Image Processing
 9) Computer Vision 
@@ -64,7 +60,7 @@ Tools :
 
 - Databases : MySQL, PostgreSQL, SQLite, MongoDB, Cassandra, Redis, Neo4j, FaunaDB
 
-- DevOps : Github Actions / Docker / Kubernetes / Teraform / NodeRed / InfluxDB / Grafana
+- DevOps : Github Actions / Docker / Kubernetes / Terraform / NodeRed / InfluxDB / Grafana
 
 - Cloud Computing : Netlify / Vercel / AWS / Azure / GCP
 

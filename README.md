@@ -37,6 +37,9 @@
 - Tensorflow: Data and Deployment
 - ML Engineering for Production (MLOPS)
 - TensorFlow Developer Professional Certificate
+- Generative AI for Software Development
+- AI for Good
+- AI for Medicine
 --->
 
 <!--- 

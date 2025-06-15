@@ -1,11 +1,19 @@
 ### Hi there 👋, I am Talha
 
-With more than 3 years of hands-on experience in developing intelligent systems covering diverse technologies and skills i.e. Internet of Things, Artificial Intelligence, Web Development, etc, I have worked with cross-functional teams to produce end-to-end engineering solutions for the market's leading brands by leveraging modern technologies, design thinking, and agile methodologies. 
+🚀 I’m a Data & AI Engineer with 4 years of experience delivering intelligent, data-driven solutions across AI, IoT, and SaaS domains blending embedded systems with cloud-native architectures to enable real-time analytics, predictive maintenance, and AI-powered decision-making.
+
+🔍 I designed and developed scalable data pipelines and vector search systems for LLMs, enabling responsive, intelligent assistants. Previously I led the development of industrial IoT platforms for smart manufacturing using Azure IoT, NodeRed, InfluxDB, and Grafana, integrating sensor data into actionable insights.
+
+🧠 My work spans R&D, full-stack development, LLM integration, and big data engineering, with a unique ability to connect hardware-level sensing with cutting-edge AI applications.
+
+🤖 I’m passionate about autonomous systems, cyber-physical platforms, and real-time edge-AI that make intelligent decisions from sensor data. I'm currently pursuing an MS in Data Engineering, where my thesis explores Edge Computing for Big Data Analytics in Autonomous Systems aligning closely with my long-term mission: to innovate where AI meets robotics, autonomy, and real-time intelligence.
+
+📩 Let’s connect if you're working on the next generation of AI-powered platforms, autonomous machines, or real-time decision systems.
 
 ### Education :
 - BE in Mechatronics Engineering
 - Masters of Project Management (MPM)
-- MS in Data Engineering and Information Management (ongoing)
+- MS in Data Engineering and Information Management
 
 ### Certifications :
 - Microsoft Technology Associate in Javascript
@@ -16,12 +24,12 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 - IBM AI Engineering Professional Certificate
 - IBM DevOps and Software Engineering Professional Certificate
 - Google Project Management Professional Certificate
-- Six Sigma White, Yellow, Green Belt Certified 
+- Six Sigma White, Yellow, Green Belt Certified
+- DeepLearning.AI Specialization - Mathematics for ML and DS
+- DeepLearning.AI Specialization - Machine Learning
 
 <!--- 
 ### DeepLearning.AI Specializations :
-- Mathematics for ML and DS
-- Machine Learning
 - Deep Learning
 - Natural Language Processing
 - Generative Adversarial Networks
@@ -33,7 +41,6 @@ With more than 3 years of hands-on experience in developing intelligent systems 
 
 <!--- 
 Domains :
-
 1) Internet of Things
 2) Data Analytics
 3) Data Science 

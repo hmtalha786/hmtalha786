@@ -1,14 +1,14 @@
 ### Hi there 👋, I am Talha
 
-🚀 I’m a Data & AI Engineer with 4 years of experience delivering intelligent, data-driven solutions across AI, IoT, and SaaS domains blending embedded systems with cloud-native architectures to enable real-time analytics, predictive maintenance, and AI-powered decision-making.
+🚀 I’m a Full Stack Data & AI Engineer with 4+ years of experience building intelligent, AI-powered web applications that bridge cloud-native systems, real-time data pipelines, and advanced machine learning. I specialize in end-to-end product development—from backend data architecture to front-end AI integration.
 
-🔍 I designed and developed scalable data pipelines and vector search systems for LLMs, enabling responsive, intelligent assistants. Previously I led the development of industrial IoT platforms for smart manufacturing using Azure IoT, NodeRed, InfluxDB, and Grafana, integrating sensor data into actionable insights.
+🧠 My expertise spans full-stack development, LLM integration, big data engineering, and MLOps. I’ve built scalable data pipelines and real-time vector search systems to power smart assistants and generative AI tools. Earlier, I led the development of industrial IoT platforms for smart manufacturing—blending edge devices with cloud dashboards using Azure IoT, NodeRed, InfluxDB, and Grafana.
 
-🧠 My work spans R&D, full-stack development, LLM integration, and big data engineering, with a unique ability to connect hardware-level sensing with cutting-edge AI applications.
+🔍 My unique strength lies in connecting hardware-level sensing with modern AI interfaces—bringing intelligence from embedded systems to the user-facing web through responsive, data-driven apps.
 
-🤖 I’m passionate about autonomous systems, cyber-physical platforms, and real-time edge-AI that make intelligent decisions from sensor data. I'm currently pursuing an MS in Data Engineering, where my thesis explores Edge Computing for Big Data Analytics in Autonomous Systems aligning closely with my long-term mission: to innovate where AI meets robotics, autonomy, and real-time intelligence.
+🤖 I’m passionate about real-time edge-AI, cyber-physical systems, and autonomous platforms that make decisions from sensor data. I’m currently pursuing an MS in Data Engineering with a thesis on Edge Computing for Big Data Analytics in Autonomous Systems—advancing my mission to merge AI, robotics, and real-time intelligence into meaningful solutions.
 
-📩 Let’s connect if you're working on the next generation of AI-powered platforms, autonomous machines, or real-time decision systems.
+📩 Let’s connect if you're building the next generation of AI-driven platforms, smart interfaces, or autonomous systems.
 
 ### Education :
 - BE in Mechatronics Engineering

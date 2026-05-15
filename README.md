@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-I’m **Muhammad Talha**, a **Full Stack Data & AI Engineer** with **4+ years of experience** designing intelligent systems that merge **AI, data pipelines, and real-time cloud architectures**.  
+I’m **Muhammad Talha**, a **Full Stack AI & Automation Engineer** with **4+ years of experience** designing intelligent systems that merge **AI, data pipelines, and real-time cloud architectures**.  
 
 🎓 I recently completed my **MS in Data Engineering & Information Management** and am now seeking **research position in Intelligent Autonomous Systems (IAS)** and **Guidance, Navigation, & Control (GNC)** — aiming to push the boundaries of **autonomous decision-making, edge-AI, and robotic intelligence**.
 

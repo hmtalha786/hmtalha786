@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Muhammad Talha</h1>
-<h3 align="center">🚀 Data & AI Engineer | Autonomous Systems Researcher | Cloud-Native Innovator</h3>
+<h3 align="center">🚀 Data & AI Engineer | Autonomous Systems Researcher | Cloud Native Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=talha-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,17 +14,17 @@
 
 I’m **Muhammad Talha**, a **Full Stack AI & Automation Engineer** with **4+ years of experience** designing intelligent systems that merge **AI, data pipelines, and real-time cloud architectures**.  
 
-🎓 I recently completed my **MS in Data Engineering & Information Management** and am now seeking **research position in Intelligent Autonomous Systems (IAS)** and **Guidance, Navigation, & Control (GNC)** — aiming to push the boundaries of **autonomous decision-making, edge-AI, and robotic intelligence**.
+🎓 I recently completed my **MS in Data Engineering & Information Management** and am now seeking **research position in Intelligent Autonomous Systems (IAS)** and **Guidance, Navigation, & Control (GNC)** aiming to push the boundaries of **autonomous decision-making, edge-AI, and robotic intelligence**.
 
 My expertise lies at the intersection of **AI Engineering**, **Data Infrastructure**, and **Autonomous Control Systems**, enabling the creation of intelligent, data-driven platforms that sense, learn, and act in real-time.
 
 ---
 
 ### 💡 What I Build
-- 🤖 **AI-Driven Platforms** — LLM-integrated SaaS, generative AI systems, and intelligent assistants  
-- ⚙️ **Data Engineering Pipelines** — Scalable, real-time architectures using Kafka, Spark, Airflow & Databricks  
-- 🌐 **Full-Stack Web Apps** — Next.js + FastAPI solutions blending AI with interactive dashboards  
-- 📡 **Edge & IoT Systems** — Real-time sensor fusion, cloud dashboards, and autonomous control loops  
+- 🤖 **AI-Driven Platforms** LLM-integrated SaaS, generative AI systems, and intelligent assistants  
+- ⚙️ **Data Engineering Pipelines** Scalable, real-time architectures using Kafka, Spark, Airflow & Databricks  
+- 🌐 **Full-Stack Web Apps** Next.js + FastAPI solutions blending AI with interactive dashboards  
+- 📡 **Edge & IoT Systems** Real-time sensor fusion, cloud dashboards, and autonomous control loops  
 
 ---
 
@@ -73,7 +73,7 @@ My expertise lies at the intersection of **AI Engineering**, **Data Infrastructu
 ---
 
 ### 🌍 Vision
-> “To pioneer intelligent systems that unite AI, autonomy, and real-time control — enabling machines to perceive, decide, and act with human-like intelligence.”
+> “To pioneer intelligent systems that unite AI, autonomy, and real-time control enabling machines to perceive, decide, and act with human-like intelligence.”
 
 ---
 
@@ -92,7 +92,7 @@ My expertise lies at the intersection of **AI Engineering**, **Data Infrastructu
 
 ---
 <p align="center">
-⭐ _"Engineering intelligence — one system at a time."_
+⭐ _"Engineering intelligence one system at a time."_
 <p/>
 
 <!--- 
